@@ -44,11 +44,15 @@ Microsoft AdventureWorks Sales Dataset
 ## 📈 Dashboard Features
 
 - KPI Cards
+[KPI](dashboard/kpi.png)
 - Monthly Profit Margin Trend
+[Profit Margin](linechart-profit margin.png)
 - Revenue by Category
+[Revenue](barchart-category.png)
 - Profit by City
-- Product Category Analysis
-- Returns Monitoring
+[Profit](map-total profit.png)
+- Revenue by Sub Category
+[Revenue](piechart-subcategory.png)
 
 ---
 
@@ -57,5 +61,5 @@ Microsoft AdventureWorks Sales Dataset
 - Total Revenue: 1.42M
 - Total Orders: 1,163
 - Total Returns: 67
-- Road Bikes contributed the largest share of sales.
+- Road Bikes contributed the largest share of revenue sales.
 - Profit margin reached its highest level in June.
