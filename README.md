@@ -37,7 +37,7 @@ Microsoft AdventureWorks Sales Dataset
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
