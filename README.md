@@ -20,6 +20,11 @@ This dashboard transforms raw sales data into actionable business insights throu
 
 ---
 
+## ❓ Problem Statement
+Management at AdventureWorks lacks a centralized and interactive system to track sales dynamics across different global regions and product categories. Without consolidated visibility, it is challenging to identify seasonal profit margin dips, high-risk locations with lower profitability, and product combinations that drive maximum value, hindering data-driven decision-making.
+
+---
+
 ## 🛠 Tools Used
 
 - Power BI
@@ -31,7 +36,7 @@ This dashboard transforms raw sales data into actionable business insights throu
 
 ## 📂 Dataset
 
-Microsoft AdventureWorks Sales Dataset
+AdventureWorks Sales Dataset
 
 ---
 
@@ -58,3 +63,10 @@ Microsoft AdventureWorks Sales Dataset
 - Total Returns: 67
 - Road Bikes contributed the largest share of revenue sales.
 - Profit margin reached its highest level in June.
+
+---
+
+## 🚀 Strategic Recommendations
+- Optimize Inventory & Marketing: Since 'Road Bikes' and 'Mountain Bikes' drive over 57% of sub-category performance, focus seasonal marketing campaigns and stock allocation on these high-margin segments.
+- Mitigate Mid-Year Margin Dips: Investigate the underlying causes of the sharp margin decline in August (e.g., promotional discounts, supply chain costs) to implement stabilizing pricing strategies.
+- Replicate Success in Global Hubs: Analyze operational strategies used in highly profitable cities like Los Angeles and New York to expand footprint and improve efficiency in emerging regional markets.
