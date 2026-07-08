@@ -44,15 +44,15 @@ Microsoft AdventureWorks Sales Dataset
 ## 📈 Dashboard Features
 
 - KPI Cards
-[KPI](dashboard/kpi.png)
+![KPI](dashboard/kpi.png)
 - Monthly Profit Margin Trend
-[Profit Margin](linechart-profit margin.png)
+![Profit Margin](linechart-profit margin.png)
 - Revenue by Category
-[Revenue](barchart-category.png)
+![Revenue](barchart-category.png)
 - Profit by City
-[Profit](map-total profit.png)
+![Profit](map-total profit.png)
 - Revenue by Sub Category
-[Revenue](piechart-subcategory.png)
+![Revenue](piechart-subcategory.png)
 
 ---
 
